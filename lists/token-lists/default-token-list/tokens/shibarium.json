@@ -1,0 +1,18 @@
+[
+    {
+        "address": "0xcA4ddCB2883FFF29D0E0f94529C728eaFF8BD7Ba",
+        "chainId": 109,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/network/shibarium/0xcA4ddCB2883FFF29D0E0f94529C728eaFF8BD7Ba.jpg",
+        "name": "PAW",
+        "symbol": "PAW"
+    },
+    {
+        "address": "0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
+        "chainId": 109,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/network/shibarium/0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce.jpg",
+        "name": "Wrapped Ether",
+        "symbol": "WETH"
+    }
+]
