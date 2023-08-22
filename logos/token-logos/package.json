@@ -12,7 +12,7 @@
   "devDependencies": {
     "@ethersproject/address": "^5.5.0",
     "@sushiswap/chain": "0.1.2",
-    "@sushiswap/core-sdk": "git+https://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@github.com/avierauy/pawdex-core-sdk.git",
+    "@sushiswap/core-sdk": "git+https://pawdex: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@github.com/pawdex/core-sdk.git",
     "@types/jest": "^27.0.1",
     "@types/node": "^17.0.21",
     "cloudinary": "^1.32.0",

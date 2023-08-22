@@ -1,0 +1,25 @@
+{
+  "name": "Sushi Community List",
+  "timestamp": "2023-08-22T01:47:11.548Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": [
+    "sushiswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0xa5f2211B9b8170F694421f2046281775E8468044",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0xa5f2211B9b8170F694421f2046281775E8468044.jpg",
+      "name": "THORSwap Token",
+      "symbol": "THOR"
+    }
+  ]
+}
