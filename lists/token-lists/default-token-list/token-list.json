@@ -30,10 +30,10 @@
             "symbol": "WETH"
         },
         {
-            "address": "0xE403B78b14de6D50fa1674c0Ca6331753bD87bA4",
+            "address": "0x4BDe686b4d7a1FE1fD95323e09000e25bB148Ec4",
             "chainId": 109,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/token-logos/network/shibarium/0xE403B78b14de6D50fa1674c0Ca6331753bD87bA4.jpg",
+            "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/token-logos/network/shibarium/0x4BDe686b4d7a1FE1fD95323e09000e25bB148Ec4.jpg",
             "name": "Wrapped Bone",
             "symbol": "WBONE"
         }
