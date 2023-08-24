@@ -14,5 +14,13 @@
         "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/token-logos/network/shibarium/0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce.jpg",
         "name": "Wrapped Ether",
         "symbol": "WETH"
+    },
+    {
+        "address": "0xE403B78b14de6D50fa1674c0Ca6331753bD87bA4",
+        "chainId": 109,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/token-logos/network/shibarium/0xE403B78b14de6D50fa1674c0Ca6331753bD87bA4.jpg",
+        "name": "Wrapped Bone",
+        "symbol": "WBONE"
     }
 ]
