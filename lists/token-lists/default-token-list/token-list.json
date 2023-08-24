@@ -1,0 +1,41 @@
+{
+    "name": "PawDex Menu",
+    "timestamp": "2023-08-24T23:43:32.770Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/logos/paw.png",
+    "keywords": [
+        "pawdex",
+        "default"
+    ],
+    "tokens": [
+        {
+            "address": "0xcA4ddCB2883FFF29D0E0f94529C728eaFF8BD7Ba",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/token-logos/network/shibarium/0xcA4ddCB2883FFF29D0E0f94529C728eaFF8BD7Ba.jpg",
+            "name": "PAW",
+            "symbol": "PAW"
+        },
+        {
+            "address": "0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/token-logos/network/shibarium/0x8ed7d143Ef452316Ab1123d28Ab302dC3b80d3ce.jpg",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        {
+            "address": "0xE403B78b14de6D50fa1674c0Ca6331753bD87bA4",
+            "chainId": 109,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pawdex/list/master/logos/token-logos/network/shibarium/0xE403B78b14de6D50fa1674c0Ca6331753bD87bA4.jpg",
+            "name": "Wrapped Bone",
+            "symbol": "WBONE"
+        }
+    ]
+}
